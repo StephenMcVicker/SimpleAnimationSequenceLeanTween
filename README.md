@@ -1,7 +1,7 @@
 # SimpleAnimationSequenceLeanTween
 A simple way of creating an animation sequence using LeanTween in the Unity Inspector.
 
-![GifExample](https://im3.ezgif.com/tmp/ezgif-3-b897e416992a.gif)
+![GifExample](https://media.giphy.com/media/Jr4DITf2OE98gFdWpM/giphy.gif)
 
 **Quick Note:**
 You need LeanTween to use this. Download for FREE from the Unity Asset Store:
